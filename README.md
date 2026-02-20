@@ -21,9 +21,10 @@ Right-click request → Extensions → Auto Tab Namer
 
 ```bash
 git clone https://github.com/ViktorMares/burp-auto-tab-namer
-
+```
 ```bash
 cd burp-auto-tab-namer
-
+```
 ```bash
 mvn clean package
+```
