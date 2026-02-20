@@ -1,6 +1,12 @@
 # Burp Auto Tab Namer
 
-Automatically names Repeater tabs based on HTTP method, path, and optional query/host.
+#### Always lost in hundreds of Repeater Tabs during Pentesting or Bug Bounty Hunting? 
+#### Same here, this is why I created this simple Burp Suite Extenstion which automatically names Repeater tabs based on HTTP method, path, and optional query/host.
+#
+## 🎬 Demo
+> Quick 30-second overview of how it works
+
+![Demo](assets/auto-tab-namer.gif)
 
 ## Features
 
